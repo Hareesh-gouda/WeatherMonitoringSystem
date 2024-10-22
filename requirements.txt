@@ -1,0 +1,6 @@
+APScheduler==3.7.0
+requests==2.26.0
+Werkzeug==2.0.3
+Flask==3.0.3
+Flask-SQLAlchemy==3.1.1
+matplotlib==3.9.2
